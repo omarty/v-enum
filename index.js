@@ -1,6 +1,5 @@
 "use strict";
 
-
 module.exports = VEnum;
 
 const sNames = Symbol("enumNames");

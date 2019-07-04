@@ -2,6 +2,12 @@
 
 **v-enum** the data type whose set of values is a limited list of identifiers.
 
+## Install
+
+```
+npm install omarty/v-enum
+```
+
 ## Parameters
 
 * `enumType` { string } - The name of the enumeration type.
