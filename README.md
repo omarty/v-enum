@@ -34,6 +34,8 @@ Get all the names by value of the enumerators in the enumeration.
 ## Example of use
 
 ```javascript
+const VEnum = require("@omarty/v-enum");
+
 // By default, the first enumerator has the value 0, and the value of each successive enumerator is increased by 1.
 // apple - 0, orange - 1, pear - 2, etc.
 var fruitsEnum = new VEnum ("fruits", [
